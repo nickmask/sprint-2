@@ -9,3 +9,11 @@ After looking at the videos and going over the way it works, it all makes a lot 
 What Confuses Me?
 
 I actually think i get it pretty well. I know there will be questions when I start doing it but I am pretty good now!
+
+PAIR PROGRAMMING
+
+What Interests Me?
+I get the point of pair programing and i think it is an awesome concept and think i would do it well. I think I am good at speaking my mind as I go through steps so that would be a large advangtage
+
+What Confuses Me?
+Currently whenI have only done a small amount of coding I just dont get the "testing" ping-pong style. It will come to me as I learn more...
